@@ -49,7 +49,7 @@ Features:
 #### 3. Imouto Navigator
 Dependence: Imouto Service
 
-![Screen](https://dl.dropbox.com/s/qq78he1iubcowm7/2015-10-10_22-18-41.png?dl=0)
+![Screen](https://dl.dropbox.com/s/030cmr8qsi1giqh/2015-10-10_22-25-15.png?dl=0)
 
 The desktop application that provides you interface for browsing your collections and configure **Imouto Service**.
 
