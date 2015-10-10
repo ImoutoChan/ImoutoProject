@@ -1,4 +1,4 @@
-# ImoutoProject
+# Imouto Project
 Imouto Project is a .Net software solution that helps you store and organize images on your local machine.
 
 ## Requirements
