@@ -5,6 +5,10 @@ Imouto Project is a .Net software solution that helps you store and organize ima
 1. OS: Windows Vista SP2 and above (7, 8, 8.1, 10)
 2. .NET Framework 4.5 (already installed on windows  8 and above, [can be downloaded here](http://www.microsoft.com/ru-ru/download/details.aspx?id=44927))
 
+## [Quick start guide](https://github.com/ImoutoChan/ImoutoProject/wiki/Quick-start-guide)
+
+## [Download last realease](https://github.com/ImoutoChan/ImoutoProject/releases)
+
 ## Content
 Imouto Project contains 4 parts. You can use some of them independently, but others depend on each other.
 
@@ -66,7 +70,3 @@ Dependence: Imouto Service
 Extensions for Chrome and Firefox, that highlights already saved images/relatives of already saved images on popular boorus.
 
 Installation information can be found here.
-
-## Installation
-
-Step-by-step instruction can be found here.
