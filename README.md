@@ -7,7 +7,7 @@ Imouto Project is a .Net software solution that helps you store and organize ima
 
 ## [Quick start guide](https://github.com/ImoutoChan/ImoutoProject/wiki/Quick-start-guide)
 
-## [Download last realease](https://github.com/ImoutoChan/ImoutoProject/releases)
+## [Download last release](https://github.com/ImoutoChan/ImoutoProject/releases)
 
 ## Content
 Imouto Project contains 4 applications. You can use some of them independently, but some depend on others.
