@@ -36,7 +36,7 @@ Dependence: Imouto Navigator (for initial configuration)
 Background application that provides image storing and related services.
 
 Features:
-* Organisation of your images collections
+* Organization of your images collections
 * Storage of images meta information
 * Integrity control for your collections
 * Provide information for **Imouto Extensions** (described below)
