@@ -3,7 +3,7 @@ Imouto Project is a software  that helps you store and organize images on your l
 
 ## Requirements
 1. OS: Windows Vista SP2 and above (7, 8, 8.1, 10)
-2. .NET Framework 4.5 (already installed on windows  8 and above, [can be downloaded here](https://www.microsoft.com/ru-ru/download/details.aspx?id=42642))
+2. .NET Framework 4.5 (already installed on windows  8 and above, [can be downloaded here](https://www.microsoft.com/en-US/download/details.aspx?id=42642))
 3. SQL LocalDb 2014 ([can be downloaded here](https://www.microsoft.com/en-US/download/details.aspx?id=42299))
 
 ## [Quick start guide](https://github.com/ImoutoChan/ImoutoProject/wiki/Quick-start-guide)
