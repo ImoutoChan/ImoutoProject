@@ -1,9 +1,10 @@
 # Imouto Project
-Imouto Project is a .Net software solution that helps you store and organize images on your local machine.
+Imouto Project is a software  that helps you store and organize images on your local machine.
 
 ## Requirements
 1. OS: Windows Vista SP2 and above (7, 8, 8.1, 10)
 2. .NET Framework 4.5 (already installed on windows  8 and above, [can be downloaded here](https://www.microsoft.com/ru-ru/download/details.aspx?id=42642))
+3. SQL LocalDb 2014 ([can be downloaded here](https://www.microsoft.com/en-US/download/details.aspx?id=42299))
 
 ## [Quick start guide](https://github.com/ImoutoChan/ImoutoProject/wiki/Quick-start-guide)
 
@@ -28,7 +29,7 @@ Features:
 * Convenient zoom presets
 * Support tags and notes, that stores in **Imouto Service**
 
-[Hotkeys and detailed description  can be found here.](https://github.com/ImoutoChan/ImoutoProject/wiki/Imouto-Viewer)
+[Hotkeys and detailed description can be found here.](https://github.com/ImoutoChan/ImoutoProject/wiki/Imouto-Viewer)
 
 #### 2. Imouto Service
 Dependence: Imouto Navigator (for initial configuration)
@@ -39,8 +40,8 @@ Features:
 * Organization of your images collections
 * Storage of images meta information
 * Integrity control for your collections
-* Provide information for **Imouto Extensions** (described below)
 * Parse and store tags information from Booru sites (support Danbooru, Yandere, SankakuComplex)
+* Provide information for **Imouto Extensions** (described below)
 * Provide tag information for **Imouto Viewer**
 * Provide services for **Imouto Navigator**
 
