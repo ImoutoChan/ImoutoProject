@@ -1,3 +1,6 @@
+! This project isn't supported anymore, please see new version here:
+[ImoutoChan/ImoutoProject](https://github.com/ImoutoChan/ImoutoRebirth)
+
 # Imouto Project
 Imouto Project is a software  that helps you store and organize images on your local machine.
 
